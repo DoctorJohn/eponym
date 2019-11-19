@@ -1,5 +1,8 @@
 # Eponym
 
+![PyPI](https://img.shields.io/pypi/v/eponym)
+![PyPI - License](https://img.shields.io/pypi/l/eponym)
+
 Eponym seeks to become a decent username generator. So far this repository includes two handpicked lists of *Descriptors* and *Things* and a basic username generator function. At one point a flexible generator will be added.
 
 ### Usage
